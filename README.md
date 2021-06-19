@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mathew John</h1>
-<h3 align="center">I'm an aspiring data scientist who wishes to solve problems in the world by means of data </h3>
+<h2 align='center'> I'm a Data Science & Analytics Professional.</h2>
+<h3 align="center">I'm excited in making machines assist humans in processing massive amounts of data to draw meaningful insights. </h3>
 
 - 📫 Reach me at : **mathewbiomed12@gmail.com** or send a message on LinkedIn.
 
