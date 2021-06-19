@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 
 <p align="left">
 <h3 align="left">Connect with me:-</h3>
-<a href="https://www.linkedin.com/in/mathewprofile/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/56673452/122641170-26cc9600-d121-11eb-917a-0153c708b75a.png)" alt="https://www.linkedin.com/in/mathewprofile/" height="30" width="40" /></a>
-#https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+<a href="https://www.linkedin.com/in/mathewprofile/" target="blank" alt="https://www.linkedin.com/in/mathewprofile/" height="30" width="40" />Linkedin</a>
 </p>
