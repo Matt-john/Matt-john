@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mathew John</h1>
 <h3 align="center">I'm an aspiring data scientist who wishes to solve problems in the world by means of data </h3>
 
-- 💬 Visit my website : [https://anjali001.github.io/](https://anjali001.github.io/)
-
 - 📫 Reach me at : **mathewbiomed12@gmail.com** or send a message on LinkedIn.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matt-john&show_icons=true&theme=radical" alt="Matt-john" /></p>
