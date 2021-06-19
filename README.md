@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mathew John</h1>
 
-<h2>I'm excited in making machines assist humans in processing massive amounts of data to draw meaningful insights. </h2>
+<p>I'm excited in making machines assist humans in processing massive amounts of data to draw meaningful insights. </p>
 
 - 📫 Reach me at : **mathewbiomed12@gmail.com** or send a message on LinkedIn.
 
