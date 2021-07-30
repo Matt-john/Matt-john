@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p>I'm excited in making machines assist humans in processing massive amounts of data to draw meaningful insights. </p>
 
-- 📫 Reach me at : **mathewbiomed12@gmail.com** or send a message on LinkedIn.
-
+<!-- - 📫 Reach me at : **mathewbiomed12@gmail.com** or send a message on LinkedIn.
+ -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matt-john&show_icons=true&theme=radical" alt="Matt-john" /></p>
 <!-- 
 <p align="left">
